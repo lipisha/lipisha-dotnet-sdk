@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lipisha", "Lipisha\Lipisha.csproj", "{52D057FD-FFA6-4280-8FDA-D3AE390D959D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LipishaTests", "LipishaTests\LipishaTests.csproj", "{EAD24337-BB4C-4499-B890-2C7D1BF342D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D057FD-FFA6-4280-8FDA-D3AE390D959D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D057FD-FFA6-4280-8FDA-D3AE390D959D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D057FD-FFA6-4280-8FDA-D3AE390D959D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D057FD-FFA6-4280-8FDA-D3AE390D959D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD24337-BB4C-4499-B890-2C7D1BF342D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD24337-BB4C-4499-B890-2C7D1BF342D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD24337-BB4C-4499-B890-2C7D1BF342D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD24337-BB4C-4499-B890-2C7D1BF342D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
