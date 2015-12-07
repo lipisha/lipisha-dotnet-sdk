@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Lipisha.Sdk</id>
+    <version>1.0.2</version>
+    <authors>Lipisha Consortium Limited</authors>
+    <owners>Lipisha Consortium Limited</owners>
+    <licenseUrl>https://raw.githubusercontent.com/lipisha/lipisha-dotnet-sdk/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/lipisha/lipisha-dotnet-sdk</projectUrl>
+    <iconUrl>https://lipisha.com/payments/accounts/cdn/images/logo.png?v=2.1.2</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Lipisha Payments .NET SDK</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Payments Mobile Africa Kenya MPESA Airtel</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="7.0.1" />
+    </dependencies>
+  </metadata>
+</package>
