@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Lipisha.Sdk</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <authors>Lipisha Consortium Limited</authors>
     <owners>Lipisha Consortium Limited</owners>
     <licenseUrl>https://raw.githubusercontent.com/lipisha/lipisha-dotnet-sdk/master/LICENSE</licenseUrl>
