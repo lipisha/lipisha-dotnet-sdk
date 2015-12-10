@@ -11,7 +11,6 @@ IPN: Instant Payment Notification
 
 The bulk of the logic happens in the IPN controller.
 
-    https://github.com/lipisha/lipisha-ruby-sdk/tree/master/examples/app/controllers/ipn_controller.rb
     https://github.com/lipisha/lipisha-dotnet-sdk/tree/master/LipishaIPNMVC/LipishaIPNMVC/Controllers/HomeController.cs
 
 For production usage, handling IPN callbacks should be mapped to records in permanent storage.
