@@ -48,10 +48,14 @@ Install-Package Lipisha.Sdk
 ```
 
 
-SDK Examples
-------------
+IPN and SDK Examples
+--------------------
 
 The Lipisha tests offer a complete overview of integrating with all APIs.
+
+IPN Examples using APN.NET MVC can be seen here.
+
+https://github.com/lipisha/lipisha-dotnet-sdk/tree/master/LipishaIPNMVC
 
 See examples here (https://github.com/lipisha/lipisha-dotnet-sdk/tree/master/LipishaTests)
 
